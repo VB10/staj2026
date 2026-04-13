@@ -47,6 +47,7 @@ Aşağıdaki alanlardan birini veya birden fazlasını seçebilirsiniz:
 - `networking` - Ağ yönetimi
 - `hardware` - Donanım
 - `sap-abap` - SAP ABAP
+- `ai-ml` - Makine Öğrenmesi/Yapay Zeka
 
 ### 4. Örnek Başlıklar
 
