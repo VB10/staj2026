@@ -87,7 +87,8 @@ def parse_company_issue(issue_body):
         'System': 'system',
         'Networking': 'networking',
         'Hardware': 'hardware',
-        'SAP ABAP': 'sap-abap'
+        'SAP ABAP': 'sap-abap',
+        'Machine Learning': 'ai-ml',
     }
     
     for key, value in position_map.items():
