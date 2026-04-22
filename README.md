@@ -15,7 +15,7 @@ Zorunlu staj ihtiyacı olan öğrenci arkadaşların kendini tanıtabileceği, p
   **AD-SOYAD [ALAN][STAJ YERİ][STAJ TİPİ][STAJ SÜRESİ]**
   
 - **Alan** kısmı şu bilgilerden birini veya birden fazlasını içerebilir:  
-  `["mobile", "backend", "computer-vision", "frontend", "devops", "pm", "qa", "game", "data-science", "data-analyst", "database", "embedded", "cyber-security", "blockchain", "system", "networking", "hardware", "sap-abap"]`
+  `["mobile", "backend", "computer-vision", "frontend", "devops", "pm", "qa", "game", "data-science", "data-analyst", "database", "embedded", "cyber-security", "blockchain", "system", "networking", "hardware", "sap-abap", "ai-ml"]`
   
 - **Staj Yeri** için şu seçeneklerden biri belirtilmelidir:  
   `["uzaktan", "yüzyüze"]`

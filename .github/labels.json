@@ -17,7 +17,8 @@
     "networking",
     "hardware",
     "sap-abap",
-    "computer-vision"
+    "computer-vision",
+    "ai-ml"
   ],
   "internLocation": ["uzaktan", "yüzyüze"],
   "internType": ["gönüllü", "zorunlu"],
