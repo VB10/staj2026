@@ -1,12 +1,12 @@
 {
-    "id": 4135079086,
-    "name": "Ömer Basmacı",
-    "issue_url": "https://github.com/VB10/staj2026/issues/183",
-    "duration": "8-hafta",
-    "location": "yüzyüze",
+    "id": 4324547381,
+    "name": "Asil DAVUTOĞLU",
+    "issue_url": "https://github.com/VB10/staj2026/issues/258",
+    "duration": "4-hafta",
+    "location": "uzaktan,yüzyüze",
     "intern_type": "zorunlu",
-    "category": "mobile,backend,frontend",
-    "page": 4,
-    "folderName": "03apr",
-    "totalCount": 150
+    "category": "backend,data-analyst,database,ai-ml",
+    "page": 6,
+    "folderName": "01may",
+    "totalCount": 200
 }

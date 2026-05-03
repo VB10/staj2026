@@ -1,0 +1,416 @@
+[
+    {
+        "id": 4217166447,
+        "name": "HALİL BATUHAN ÇOPUR",
+        "issue_url": "https://github.com/VB10/staj2026/issues/199",
+        "duration": "4-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "cyber-security,mobile,backend,frontend"
+    },
+    {
+        "id": 4224003472,
+        "name": "Umut Tunçer",
+        "issue_url": "https://github.com/VB10/staj2026/issues/203",
+        "duration": "8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "frontend,backend,mobile,data-science"
+    },
+    {
+        "id": 4232576820,
+        "name": "İREM ÇELEBİ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/204",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "data-analyst,cyber-security"
+    },
+    {
+        "id": 4234926448,
+        "name": "Ali AKPOYRAZ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/205",
+        "duration": "4-hafta",
+        "location": "uzaktan",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend"
+    },
+    {
+        "id": 4255112865,
+        "name": "ÖZKAN-YILMAZ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/207",
+        "duration": "6-hafta",
+        "location": "yüzyüze",
+        "intern_type": "gönüllü",
+        "category": "backend"
+    },
+    {
+        "id": 4255522913,
+        "name": "Ali Ünal UZUNÇAYIR",
+        "issue_url": "https://github.com/VB10/staj2026/issues/208",
+        "duration": "4-hafta",
+        "location": "uzaktan",
+        "intern_type": "zorunlu",
+        "category": "data-analyst"
+    },
+    {
+        "id": 4255610944,
+        "name": "YUSUF ASAN",
+        "issue_url": "https://github.com/VB10/staj2026/issues/211",
+        "duration": "4-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "cyber-security,game,devops,networking"
+    },
+    {
+        "id": 4255993165,
+        "name": "Berat-Kaan-Akcan",
+        "issue_url": "https://github.com/VB10/staj2026/issues/214",
+        "duration": "4-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "cyber-security,mobile,devops,database"
+    },
+    {
+        "id": 4256139249,
+        "name": "Mert Can ASAL",
+        "issue_url": "https://github.com/VB10/staj2026/issues/215",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,frontend,game,data-science,data-analyst,database,cyber-security,system,"
+    },
+    {
+        "id": 4256432283,
+        "name": "DENİZ GÜNDÜZ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/216",
+        "duration": "4-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,game,cyber-security,database"
+    },
+    {
+        "id": 4256452286,
+        "name": "Emirhan Ayaz",
+        "issue_url": "https://github.com/VB10/staj2026/issues/217",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "gönüllü",
+        "category": "backend,frontend,networking"
+    },
+    {
+        "id": 4256767897,
+        "name": "Halit Batuhan ASLAN",
+        "issue_url": "https://github.com/VB10/staj2026/issues/218",
+        "duration": "8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu,gönüllü",
+        "category": "data-science,computer-vision,data-analyst,database"
+    },
+    {
+        "id": 4256779949,
+        "name": "TUBA RÜKİYE DAN",
+        "issue_url": "https://github.com/VB10/staj2026/issues/219",
+        "duration": "4-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "backend,mobile,cyber-security"
+    },
+    {
+        "id": 4256814693,
+        "name": "FURKAN -EFE-YÜKSEL",
+        "issue_url": "https://github.com/VB10/staj2026/issues/220",
+        "duration": "4-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "mobile,data-science,frontend,backend"
+    },
+    {
+        "id": 4256997414,
+        "name": "Umut Yavuz",
+        "issue_url": "https://github.com/VB10/staj2026/issues/221",
+        "duration": "8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,frontend,database,hardware,system,networking"
+    },
+    {
+        "id": 4257055260,
+        "name": "Ömer Faruk Baysal",
+        "issue_url": "https://github.com/VB10/staj2026/issues/222",
+        "duration": "6-hafta,8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "cyber-security"
+    },
+    {
+        "id": 4257482637,
+        "name": "AYBERK KARAKÖSE",
+        "issue_url": "https://github.com/VB10/staj2026/issues/225",
+        "duration": "4-hafta",
+        "location": "uzaktan",
+        "intern_type": "zorunlu",
+        "category": "backend,data-science,embedded"
+    },
+    {
+        "id": 4257584670,
+        "name": "Çağatay Kağan Atalay",
+        "issue_url": "https://github.com/VB10/staj2026/issues/226",
+        "duration": "4-hafta,6-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,embedded,system"
+    },
+    {
+        "id": 4257673997,
+        "name": "Zeliha Kıyak",
+        "issue_url": "https://github.com/VB10/staj2026/issues/227",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "gönüllü",
+        "category": "mobile,backend,data-science,database"
+    },
+    {
+        "id": 4258789058,
+        "name": "Hakan Tuna",
+        "issue_url": "https://github.com/VB10/staj2026/issues/228",
+        "duration": "6-hafta,8-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "system,networking,hardware,backend"
+    },
+    {
+        "id": 4260851793,
+        "name": "Hamza Tekin",
+        "issue_url": "https://github.com/VB10/staj2026/issues/229",
+        "duration": "6-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,data-science,database,data-analyst"
+    },
+    {
+        "id": 4262025554,
+        "name": "Serdar Kemal İncaman",
+        "issue_url": "https://github.com/VB10/staj2026/issues/230",
+        "duration": "4-hafta,8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "computer-vision,data-science,data-analyst,embedded,cyber-security,mobile,system,hardware"
+    },
+    {
+        "id": 4262170269,
+        "name": "Dilara Yüksek",
+        "issue_url": "https://github.com/VB10/staj2026/issues/231",
+        "duration": "8-hafta",
+        "location": "uzaktan",
+        "intern_type": "gönüllü",
+        "category": "mobile,backend"
+    },
+    {
+        "id": 4264713285,
+        "name": "CEMAL YILMAZ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/232",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,frontend,game,blockchain,database"
+    },
+    {
+        "id": 4269070815,
+        "name": "Mert ERKOÇ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/233",
+        "duration": "6-hafta,8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "cyber-security,system,networking"
+    },
+    {
+        "id": 4269333631,
+        "name": "Abdulkerim Akten",
+        "issue_url": "https://github.com/VB10/staj2026/issues/234",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,computer-vision,qa"
+    },
+    {
+        "id": 4270788218,
+        "name": "Feyza Nur Dandal",
+        "issue_url": "https://github.com/VB10/staj2026/issues/235",
+        "duration": "6-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,mobile,cyber-security,database,networking"
+    },
+    {
+        "id": 4270855462,
+        "name": "Ömer Faruk Akdağ",
+        "issue_url": "https://github.com/VB10/staj2026/issues/237",
+        "duration": "8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "ai-ml,computer-vision,data-science,data-analyst,blockchain"
+    },
+    {
+        "id": 4271371372,
+        "name": "BAHAR-ŞEN",
+        "issue_url": "https://github.com/VB10/staj2026/issues/238",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend"
+    },
+    {
+        "id": 4276541604,
+        "name": "Emre Zeytin",
+        "issue_url": "https://github.com/VB10/staj2026/issues/239",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,frontend,devops"
+    },
+    {
+        "id": 4278247279,
+        "name": "Mert Kadakal",
+        "issue_url": "https://github.com/VB10/staj2026/issues/240",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,frontend,data-science,data-analyst,database,system,networking"
+    },
+    {
+        "id": 4281522920,
+        "name": "Hamza-Demir",
+        "issue_url": "https://github.com/VB10/staj2026/issues/241",
+        "duration": "8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "data-science,data-analyst"
+    },
+    {
+        "id": 4282423576,
+        "name": "Mehmet Emin Ayaz",
+        "issue_url": "https://github.com/VB10/staj2026/issues/242",
+        "duration": "4-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,frontend,mobile"
+    },
+    {
+        "id": 4282818602,
+        "name": "Berk Sayın",
+        "issue_url": "https://github.com/VB10/staj2026/issues/243",
+        "duration": "4-hafta,8-hafta",
+        "location": "yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,frontend,data-analyst,data-science"
+    },
+    {
+        "id": 4283580637,
+        "name": "Yusuf İslam Özaydın",
+        "issue_url": "https://github.com/VB10/staj2026/issues/244",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "gönüllü",
+        "category": "cyber-security"
+    },
+    {
+        "id": 4283667698,
+        "name": "Havva Çiğse Şahin",
+        "issue_url": "https://github.com/VB10/staj2026/issues/245",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,data-science"
+    },
+    {
+        "id": 4287877290,
+        "name": "Turhan Gündüzoğlu",
+        "issue_url": "https://github.com/VB10/staj2026/issues/247",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "data-science,data-analyst,database"
+    },
+    {
+        "id": 4288467408,
+        "name": "Zeynep Zilan Korkmaz",
+        "issue_url": "https://github.com/VB10/staj2026/issues/249",
+        "duration": "4-hafta",
+        "location": "yüzyüze,uzaktan",
+        "intern_type": "zorunlu",
+        "category": "backend,system,database,data-analyst"
+    },
+    {
+        "id": 4295701966,
+        "name": "Nisa Peri Aksoy",
+        "issue_url": "https://github.com/VB10/staj2026/issues/251",
+        "duration": "8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend,database,data-science"
+    },
+    {
+        "id": 4296730093,
+        "name": "Öykü Demirel",
+        "issue_url": "https://github.com/VB10/staj2026/issues/252",
+        "duration": "8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "data-science,data-analyst,backend,database"
+    },
+    {
+        "id": 4302764292,
+        "name": "Batuhan Can Aracı",
+        "issue_url": "https://github.com/VB10/staj2026/issues/253",
+        "duration": "4-hafta",
+        "location": "uzaktan",
+        "intern_type": "zorunlu",
+        "category": "cyber-security,mobile"
+    },
+    {
+        "id": 4303241535,
+        "name": "Alper Kocasalih",
+        "issue_url": "https://github.com/VB10/staj2026/issues/254",
+        "duration": "4-hafta,6-hafta,8-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "gönüllü, zorunlu",
+        "category": "game,backend,qa,database,system,networking],Game Development"
+    },
+    {
+        "id": 4305754583,
+        "name": "Kadir Yılmaz",
+        "issue_url": "https://github.com/VB10/staj2026/issues/255",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend"
+    },
+    {
+        "id": 4316096231,
+        "name": "Furkan PALA",
+        "issue_url": "https://github.com/VB10/staj2026/issues/256",
+        "duration": "4-hafta",
+        "location": "uzaktan",
+        "intern_type": "zorunlu",
+        "category": "mobile,backend"
+    },
+    {
+        "id": 4318087089,
+        "name": "Sercan COŞAR",
+        "issue_url": "https://github.com/VB10/staj2026/issues/257",
+        "duration": "4-hafta,6-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,frontend,game,data-analyst,database,ai-ml"
+    },
+    {
+        "id": 4324547381,
+        "name": "Asil DAVUTOĞLU",
+        "issue_url": "https://github.com/VB10/staj2026/issues/258",
+        "duration": "4-hafta",
+        "location": "uzaktan,yüzyüze",
+        "intern_type": "zorunlu",
+        "category": "backend,data-analyst,database,ai-ml"
+    }
+]
